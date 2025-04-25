@@ -1,0 +1,6 @@
+[submodule "xolotl-frontend"]
+	path = xolotl-frontend
+	url = git@github.com:crinfarr/xolotl-frontend
+[submodule "xolotl-backend"]
+	path = xolotl-backend
+	url = git@github.com:crinfarr/xolotl-backend
