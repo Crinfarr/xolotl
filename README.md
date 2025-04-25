@@ -1,1 +1,1 @@
-# xolotl
+# xolotl monorepo/workspace
