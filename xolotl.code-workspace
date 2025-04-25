@@ -1,8 +1,18 @@
 {
 	"folders": [
 		{
-			"path": "."
-		}
+			"path": "./xolotl-backend",
+            "name": "Backend",
+		},
+        {
+            "path": "./xolotl-frontend",
+            "name": "Frontend"
+        },
+        {
+            "path": ".",
+            "name": "Workspace"
+        }
     ],
-    "settings": {}
+    "settings": {
+    }
 }
